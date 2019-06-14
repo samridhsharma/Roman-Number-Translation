@@ -12,7 +12,7 @@ Conversion of Roman numeral to its decimal equivalent and also express it in wor
   
   
   
-   Format: ![Alt Text](https://he-s3.s3.amazonaws.com/media/uploads/d787647.png)
+   ![Alt Text](https://he-s3.s3.amazonaws.com/media/uploads/d787647.png)
   
   
 
