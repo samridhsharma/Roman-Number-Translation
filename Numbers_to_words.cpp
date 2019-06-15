@@ -2,7 +2,6 @@
 using namespace std;
 
 //list of numbers from 1 to 19 :
-
 string one[21] = {"","one ","two ","three ","four ","five ","six ","seven ","eight ","nine ","ten ","eleven ","twelve ","thirteen ","fourteen ","fifteen ","sixteen ","seventeen ","eighteen ","nineteen "};
 
 //list of ten's :
@@ -63,6 +62,7 @@ string ConvertedToWords(long n){
 
 int main(){
 	
+	//long takes upto 9 digits 
 	long n;
 	cout << "Enter the Number to be converted : ";
 	cin >> n ;
